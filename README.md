@@ -1,6 +1,5 @@
 # Personal-Portfolio
 
-This repsitory contains the source code of creating Personal Portfolio using HTML, CSS and JavaScript.
 <br>
 Heyya, it's my portfolio website, a compilation of my academic and professional materials that exemplifies my beliefs, skills, qualifications, education, training, and experiences and insight into my personality and work ethic.
 <br>
