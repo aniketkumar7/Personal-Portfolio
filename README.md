@@ -1,4 +1,4 @@
-# Personal-Portfolio
+# Personal-Portfolio Website
 
 <br>
 Heyya, it's my personal portfolio website, a compilation of my academic and professional materials that exemplifies my beliefs, skills, qualifications, education, training, experiences and insight into my personality and work ethic.
